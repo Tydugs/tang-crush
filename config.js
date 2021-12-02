@@ -3,14 +3,14 @@ const CONFIG = {
     introDesc: `Bạn thấy mình thế nào `,
     btnIntro: 'hihi',
     title: 'bạn iu ',
-    desc: 'Phải chăng đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'sóc chuột đẹp trai đúng ko  ',
     btnYes: 'Đẹp zai vl <3 <3',
     btnNo: 'Không, Bạn xấu vl :3',
-    question:'Sao bạn thấy vậy <3',
+    question:' Bạn thấynhư nào<3',
     btnReply: 'Gửi cho Bạn <3',
-    reply: 'Dẹp trai quá trời  <33333333',
+    reply: 'vừa đẹp tai vừa quẩy dẻo  <33333333',
     mess: 'mình biết mà 🥰. thanks nhiều nhiều 😘😘',
-    messDesc: 'Tốí zui zẻ .',
+    messDesc: 'iu iu .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
