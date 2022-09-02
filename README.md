@@ -9,7 +9,7 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'bạn à!',
-    introDesc: `trả lời đi `,
+    introDesc: `trả lờđi `,
     btnIntro: 'oke!',
     title: 'bạn ơi ',
     desc: Chiều chơi bóng khôm',
