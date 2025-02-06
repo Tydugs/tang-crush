@@ -1,27 +1,69 @@
-# Hi chào cậu
-## _bạn oi _
-
-Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
-
-Mở file config.js sửa nội dung theo mẫu
-```
-const CONFIG = {
-    introTitle: 'bạn à!',
-    introDesc: `trả lờđi `,
-    btnIntro: 'oke!',
-    title: 'bạn ơi ',
-    desc: Chiều chơi bóng khôm',
-    btnYes: 'oke 4h',
-    btnNo: 'Không,bạn à :3',
-    question:'oke nhoa',
-    btnReply: 'oce uy tín',
-    reply: 'chơi bóng đê',
-    mess: 'hảo hán uy tín nha ',
-    messDesc: 'chiều 4h trên c2 ',
-    btnAccept: 'Okiiiii lun ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
-```
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Di Tích Danh Lam Thắng Cảnh</title>
+    <style>
+        body {
+            font-family: "Times New Roman", serif;
+            background-color: #f4f1e8;
+            color: #5a4636;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #8b6f47;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        nav {
+            background-color: #a28c6a;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        footer {
+            background-color: #8b6f47;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Di Tích Danh Lam Thắng Cảnh
+    </header>
+    <nav>
+        <a href="#">Trang Chủ</a>
+        <a href="#">Địa Điểm</a>
+        <a href="#">Đánh Giá</a>
+        <a href="#">Blog</a>
+        <a href="#">Liên Hệ</a>
+    </nav>
+    <div class="container">
+        <h2>Chào mừng đến với trang web của chúng tôi</h2>
+        <p>Khám phá những di tích lịch sử và danh lam thắng cảnh tuyệt đẹp.</p>
+    </div>
+    <footer>
+        &copy; 2025 Di Tích Danh Lam Thắng Cảnh. Mọi quyền được bảo lưu.
+    </footer>
+</body>
+</html>
 
